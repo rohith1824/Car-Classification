@@ -1,0 +1,16 @@
+# Ignore virtual environments
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore AWS keys and sensitive files
+*.pem
+
+# Ignore large model files
+*.h5
+
+# Ignore macOS system files
+.DS_Store
+
