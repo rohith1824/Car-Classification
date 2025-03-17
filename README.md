@@ -1,3 +1,6 @@
+## Deployed Version  
+🚀 **Live API Endpoint:** http://18.218.123.164/ 
+
 Car Classification API 🚗🔍
 A FastAPI-based machine learning model to classify car types, containerized with Docker, and deployed on AWS EC2.
 
